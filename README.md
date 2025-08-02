@@ -118,8 +118,3 @@ This way, you can:
 → **Learn** from the code if you're interested in Python  
 → **Trust** that there's no shady stuff behind the scenes
 
-If you trust me and want something faster to run, I can send an `.exe` version too —  
-but that’s 100% your choice.
-
-🛡️ Trust and clarity come first — that’s why I wrote this part.
-
