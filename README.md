@@ -1,16 +1,16 @@
 
-███████╗ ██████╗ ███████╗███████╗███████╗     ████████╗ ██╗  ██╗ ███████╗
-██╔════╝██╔═══██╗██╔════╝██╔════╝██╔════╝    ╚══██╔══╝ ██║  ██║ ██╔════╝
-█████╗  ██║   ██║█████╗  █████╗  ███████╗           ██║    ███████║ █████╗  
-██╔══╝  ██║   ██║██╔══╝  ██╔══╝  ╚════██║           ██║    ██╔══██║ ██╔══╝  
-██║     ╚██████╔╝███████╗███████╗███████║          ██║    ██║  ██║ ███████╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝          ╚═╝    ╚═╝  ╚═╝ ╚══════╝
+███████╗ ██████╗ ███████╗███████╗███████╗    ████████╗  ██╗  ██╗  ███████╗
+██╔════╝██╔═══██╗██╔════╝██╔════╝██╔════╝    ╚══██╔══╝  ██║  ██║  ██╔════╝
+█████╗  ██║   ██║█████╗  █████╗  ███████╗       ██║     ███████║  █████╗  
+██╔══╝  ██║   ██║██╔══╝  ██╔══╝  ╚════██║       ██║     ██╔══██║  ██╔══╝  
+██║     ╚██████╔╝███████╗███████╗███████║       ██║     ██║  ██║  ███████╗
+╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝       ╚═╝     ╚═╝  ╚═╝  ╚══════╝
 
                 ⚫ GUESS THE NUMBER ⚫
          A cheeky fullscreen number guessing game
 ------------------------------------------------------------------------
 
-📄 How to Play:
+ How to Play:
 ---------------
 - The game will choose a secret number between 0 and a configurable max (default is 100).
 - Your job is to guess it!
@@ -19,10 +19,10 @@
 - Try to guess it in as few attempts as possible!
 - The game keeps track of your BEST score (least attempts to win).
 
-But... the game may also **mock** your bad guesses. Stay sharp 👀
+But... the game may also **mock** your bad guesses. Stay sharp 
 
 
-🔧 Requirements:
+ Requirements:
 ---------------
 ✓ Python 3.10 or later (tested on 3.13)
 ✓ Runs on Windows (fullscreen, GUI)
@@ -36,7 +36,7 @@ To install Python:
 → https://www.python.org/downloads/
 
 
-🚀 How to Launch:
+ How to Launch:
 -----------------
 1. Put all files in the same folder:
    • `guess_game.py` (the main game script)
@@ -51,7 +51,7 @@ To install Python:
 
 
 
-🔁 How to Reset High Scores :
+ How to Reset High Scores :
 ------------------------------------------------------------
 The game saves your *best score* in a file called:
 
@@ -71,7 +71,7 @@ Now your best score is cleared!
 
 
 
-🎯 Changing the Maximum Number (Guessing Range):
+ Changing the Maximum Number (Guessing Range):
 ------------------------------------------------
 The game default range is **0 to 100**, but you can customize it.
 
@@ -96,13 +96,13 @@ To change this:
 
 The next time you launch the game, it will use the new number range!
 
-📝 Tip: The game will automatically regenerate these files if they’re missing or deleted —  
+ Tip: The game will automatically regenerate these files if they’re missing or deleted —  
 so don’t worry if you mess something up, you can just delete them and they’ll come back.
 
 
 
 
-📌 Why I Included This Explanation:
+ Why I Included This Explanation:
 -----------------------------------
 These days, many people are cautious about running `.exe` files — and rightfully so.  
 It's easy for malware to hide in a binary, and you can’t really “look inside” to know what’s going on.
